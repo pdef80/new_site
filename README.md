@@ -1,2 +1,2 @@
 # new_site
-my_s
+Nothing new
